@@ -4,7 +4,7 @@
 
 ## ¿Te gustaríar echarle un ojo a mi portfolio? :monocle_face:
 
-[![Portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&-fi&logoColor=green)](https://porfolio-two-dusky.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&-fi&logoColor=green)](https://juan-page.netlify.app/)
 
 
 
