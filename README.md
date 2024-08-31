@@ -1,11 +1,5 @@
-
-#  Hola ! :grinning:
-
-
-## ¿Te gustaríar echarle un ojo a mi portfolio? :monocle_face:
-
-[![Portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&-fi&logoColor=green)](https://juan-page.netlify.app/)
-
+### Me dedico al desarrollo de aplicaciones web, también tengo conocimientos con herramientas de diseño como Figma. 
+### I am dedicated to the development of web applications, I also have knowledge with design tools such as Figma.
 
 
 
