@@ -1,9 +1,5 @@
-### Me dedico al desarrollo de aplicaciones web, también tengo conocimientos con herramientas de diseño como Figma. 
+### 💻 Me dedico al desarrollo de aplicaciones web, también tengo conocimientos con herramientas de diseño como Figma. 
 ### I am dedicated to the development of web applications, I also have knowledge with design tools such as Figma.
-
-
-
-## :briefcase: Estan son las lecnologías con las actualmente trabajo
 
 ### Frontend
 <table width="320px">
