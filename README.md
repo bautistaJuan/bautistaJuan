@@ -1,9 +1,3 @@
-### 💻 Me dedico al desarrollo de aplicaciones web, también manejo herramientas de diseño web como Figma. 
-### Me aseguro de que cada proyecto que realizo sea de alta calidad y cumpla con los estándares de la industria. 
-
-
-
-## 👨‍💼 Tech Skill
 
 
 ### Frontend
