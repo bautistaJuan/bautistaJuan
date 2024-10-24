@@ -32,6 +32,10 @@
             <span><strong>Figma</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
             </td>
+             <td width="80px" align="center">
+            <span><strong>Framer Motion</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg">
+            </td>
         </tr>
 </table>
 
