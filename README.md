@@ -1,6 +1,15 @@
+# Hola !!  
+mi nombre es... bueno creo que ya es obvio jajaja
+Bueno ¿Que podría decir a cerca de mí para que puedas darte una idea de como o quien soy? 
+Podría decirte que vivo en Argentina y tengo 22 años, pero eso se va del tema principal, nisiquiera yo se el tema principal pero suena bien 😆
+Siempre busco maneras de escapar de mi zona de confort para ver más allá de lo que mis ojos 👁️ ven, soy un poco sentimental a veces.
+
+La razón por la que me puse a estudiar programación 🧑‍💻 por mi cuenta, fue porque ví todos los veneficios que podría traerme el hacerlo y hasta el día de hoy no me arrepiento.
+La manera en la que cambia tu forma de pensar es algo hermoso y no hablo etiquetas y sintaxis. Hablo de lo que realmente significa programar, poder ver más allá de un problema,
+saber que existen millones de alternativas, saber cuando es mejor no pensar demasiado, aprender a manejar la frustración... Esto es lo que elegí para mi vida y siempre voy a elegirlo.🖤
 
 
-### Frontend
+## Soy desarrollador Front-End 👨‍🎨
 <table width="320px">
     <tbody>
         <tr valign="top">
@@ -38,8 +47,6 @@
             </td>
         </tr>
 </table>
-
-### Backend 
 <table width="320px">
     <tbody>
         <tr valign="top">
@@ -57,9 +64,6 @@
             </td>
         </tr>
 </table>
-
-
-### Control de registro
 <table width="320px">
     <tbody>
         <tr valign="top">
@@ -73,8 +77,5 @@
             </td>
         </tr>
 </table>
-
-# 📈
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bautistaJuan&theme=dark&layout=compact"/>
 
 
