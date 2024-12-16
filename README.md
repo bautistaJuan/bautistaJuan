@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 - 🌱 I’m currently learning **PostgresSQL**
 
 - I make this Todo App With Firebase 🖤 [Todo App](https://my-todo-list-with-firebase.vercel.app/)
