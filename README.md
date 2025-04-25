@@ -1,14 +1,14 @@
 <h1 align="center">Hola 👋, soy Juan</h1>
-<h3 align="center">Desarrollador frontend apasionado de Argentina</h3>
+<h3 align="center">DESARROLLADOR FRONTEND</h3>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
-
-- 🌱 Actualmente estoy aprendiendo **Next.js**  
-- ✅ Desarrollé esta app de tareas con Firebase: [Todo App](https://my-todo-list-with-firebase.vercel.app/)  
-- ✅ También creé esta app de chat en tiempo real: [Chat App](https://app-chat-topaz.vercel.app/)  
+- ✅ Desarrollé un Todo-List con React y Firebase: [Todo App](https://my-todo-list-with-firebase.vercel.app/)  
+- ✅ También creé esta app de chat en tiempo real con Typescript y Firebase: [Chat App](https://app-chat-topaz.vercel.app/)  
 - ✅ Y este juego con TypeScript: [Piedra, Papel o Tijera](https://ppt-dwf.vercel.app/)  
 - 👨‍💻 Podés ver todos mis proyectos en mi portafolio: [juan-bautista.vercel.app](https://juan-bautista.vercel.app/)
 
+---
+
+- 🌱 Actualmente estoy aprendiendo **Next.js**  
 ---
 
 <h3 align="left">Conectá conmigo:</h3>
