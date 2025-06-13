@@ -4,7 +4,7 @@
 - ✅ Desarrollé un Todo-List con React y Firebase: [Todo App](https://my-todo-list-with-firebase.vercel.app/)  
 - ✅ También creé esta app de chat en tiempo real con Typescript y Firebase: [Chat App](https://app-chat-topaz.vercel.app/)  
 - ✅ Y este juego con TypeScript: [Piedra, Papel o Tijera](https://ppt-dwf.vercel.app/)  
-- 👨‍💻 Podés ver todos mis proyectos en mi portafolio: [juan-bautista.vercel.app](https://juan-bautista.vercel.app/)
+- 👨‍💻 Podés ver todos mis proyectos en mi portafolio: [juan-bautista.vercel.app](https://juan-portfolio-eight.vercel.app/)
 
 ---
 
