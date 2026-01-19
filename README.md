@@ -23,8 +23,9 @@ Estudiante de la <strong>Tecnicatura Universitaria en Informática</strong>.
 
 ## 🚀 Proyectos destacados
 
-- 📝 **Todo App** — Aplicación de gestión de tareas con React y Firebase  
-  👉 https://my-todo-list-with-firebase.vercel.app/
+- 📝 **[Registro de lectura](https://book-tracker-fawn.vercel.app)** — Aplicación de gestión de libros y acopañamiento de lectura
+  - **Esta aplicacion esta hecha con el proposito de promover la lectura 🩶** - React.js - Next.js - Firebase - Tailwind CSS
+   - 👉 https://book-tracker-fawn.vercel.app
 
 - 💬 **Chat App en tiempo real** — TypeScript + Firebase  
   👉 https://app-chat-topaz.vercel.app/
