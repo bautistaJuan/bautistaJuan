@@ -84,6 +84,7 @@ Una app diseñada para **promover la lectura 🩶** y ayudar a los usuarios a ma
     <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></td>
   </tr>
 </table>
+
 **Lenguajes:** JavaScript • TypeScript • HTML5 • CSS3 • Bash
 
 **Frontend:** React • Next.js • Tailwind CSS • Context API • Hooks
