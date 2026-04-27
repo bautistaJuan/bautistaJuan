@@ -130,18 +130,6 @@ Una app diseñada para **promover la lectura 🩶** y ayudar a los usuarios a ma
 
 ## 🤝 Conecta conmigo
 
-<p align="left">
-  <a href="https://linkedin.com/in/juanbautistavega" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
-  </a>
-  <a href="https://github.com/bautistaJuan" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="30" height="30"/>
-  </a>
-  <a href="mailto:vegajuancontact@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" width="30" height="30"/>
-  </a>
-</p>
-
 - 💼 **LinkedIn:** https://linkedin.com/in/juanbautistavega
 - 🐙 **GitHub:** https://github.com/bautistaJuan
 - 📧 **Email:** vegajuancontactl@gmail.com
