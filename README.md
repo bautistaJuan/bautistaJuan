@@ -1,7 +1,7 @@
 <h1 align="center">Juan Bautista Vega</h1>
 
 <p align="center">
-Frontend Developer especializado en React, Next.js y TypeScript.
+Web Developer especializado en: Reactjs - TypeScript - Nodejs - Express
 <br/>
 Construyendo aplicaciones web modernas con foco en experiencia de usuario, rendimiento y escalabilidad.
 </p>
@@ -10,7 +10,7 @@ Construyendo aplicaciones web modernas con foco en experiencia de usuario, rendi
 
 ## About
 
-Soy desarrollador frontend con experiencia construyendo aplicaciones web utilizando tecnologías modernas del ecosistema JavaScript.
+Soy desarrollador web con experiencia construyendo aplicaciones web utilizando tecnologías modernas del ecosistema JavaScript.
 
 Disfruto transformar ideas en productos funcionales, trabajando sobre interfaces intuitivas, arquitecturas mantenibles y experiencias fluidas para los usuarios.
 
@@ -18,7 +18,7 @@ Disfruto transformar ideas en productos funcionales, trabajando sobre interfaces
 
 * React & Next.js
 * TypeScript
-* Arquitectura Frontend
+* Arquitectura fullstack
 * Performance y optimización web
 * Accesibilidad 
 * Testing
