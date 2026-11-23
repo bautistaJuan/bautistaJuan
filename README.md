@@ -8,6 +8,7 @@
   </a>
 </div>
 
+
 ---
 
 ### Sobre mí
@@ -18,42 +19,22 @@ Desarrollador web especializado en el ecosistema moderno de JavaScript. Me enfoc
 - **Formación:** Tecnicatura Universitaria en Informática en la **Universidad Nacional de General Sarmiento (UNGS)** y programa de Desarrollo Fullstack en **APX School**.
 
 ---
+### Proyecto Destacado
 
-### Proyectos Destacados
+#### 📚 Lectio (Book Tracker)
+Plataforma para organizar bibliotecas personales, registrar el avance de lectura y construir hábitos diarios.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 Lectio (Book Tracker)</h3>
-      <p>Plataforma para organizar bibliotecas personales, registrar el avance de lectura y construir hábitos diarios.</p>
-      <p><strong>Stack:</strong> React · Next.js · Firebase · Tailwind CSS</p>
-      <ul>
-        <li>Gestión completa de biblioteca y estados de lectura</li>
-        <li>Seguimiento de progreso y métricas personales</li>
-        <li>Sincronización de datos en tiempo real e interfaz responsive</li>
-      </ul>
-      <a href="https://book-tracker-fawn.vercel.app" target="_blank">
-        <img src="https://img.shields.io/badge/Ver_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo Book Tracker" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💬 Real-Time Chat</h3>
-      <p>Aplicación de mensajería instantánea con salas activas y control de acceso mediante autenticación.</p>
-      <p><strong>Stack:</strong> Web Components · TypeScript · Firebase · API REST</p>
-      <ul>
-        <li>Envío y recepción de mensajes en tiempo real</li>
-        <li>Autenticación de usuarios y persistencia en la nube</li>
-        <li>Diseño adaptable para escritorio y dispositivos móviles</li>
-      </ul>
-      <a href="https://app-chat-topaz.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Ver_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo Real-Time Chat" />
-      </a>
-    </td>
-  </tr>
-</table>
+**Stack:** React · Firebase · Tailwind CSS
+
+- Gestión completa de biblioteca y estados de lectura
+- Seguimiento de progreso y métricas personales
+- Sincronización de datos en tiempo real e interfaz responsive
+
+<a href="https://book-tracker-fawn.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Ver_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo Lectio" />
+</a>
 
 ---
-
 ### Stack Tecnológico
 
 **Lenguajes**  
