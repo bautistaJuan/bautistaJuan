@@ -24,7 +24,7 @@ Desarrollador web especializado en el ecosistema moderno de JavaScript. Me enfoc
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 Book Tracker</h3>
+      <h3>📚 Lectio (Book Tracker)</h3>
       <p>Plataforma para organizar bibliotecas personales, registrar el avance de lectura y construir hábitos diarios.</p>
       <p><strong>Stack:</strong> React · Next.js · Firebase · Tailwind CSS</p>
       <ul>
@@ -39,7 +39,7 @@ Desarrollador web especializado en el ecosistema moderno de JavaScript. Me enfoc
     <td width="50%" valign="top">
       <h3>💬 Real-Time Chat</h3>
       <p>Aplicación de mensajería instantánea con salas activas y control de acceso mediante autenticación.</p>
-      <p><strong>Stack:</strong> React · TypeScript · Firebase</p>
+      <p><strong>Stack:</strong> Web Components · TypeScript · Firebase · API REST</p>
       <ul>
         <li>Envío y recepción de mensajes en tiempo real</li>
         <li>Autenticación de usuarios y persistencia en la nube</li>
